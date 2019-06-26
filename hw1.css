@@ -1,0 +1,10 @@
+.chartBar, .chartArea, .chartSc
+{
+    fill: #2fb499;
+}
+.chartLine
+{
+    fill: none;
+    stroke: #2fb499;
+    stroke-width: 3px;
+}
